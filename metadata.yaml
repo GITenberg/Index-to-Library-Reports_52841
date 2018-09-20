@@ -1,0 +1,29 @@
+_repo: Index-to-Library-Reports_52841
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moody, Katharine Twining
+    alias: Moody, Kate
+    birthdate: 1867
+    deathdate: 1950
+    gutenberg_agent_id: '47075'
+    url: http://www.gutenberg.org/2009/agents/47075
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52841'
+  lccn: '13013522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Library science -- Bibliography'
+- !lcsh 'Indexes'
+- !lcc 'Z'
+- !lcsh 'Libraries -- Canada -- Bibliography'
+- !lcsh 'Libraries -- United States -- Bibliography'
+- GITenberg
+title: Index to Library Reports
+url: http://www.gutenberg.org/ebooks/52841
